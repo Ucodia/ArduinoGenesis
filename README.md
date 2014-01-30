@@ -22,5 +22,6 @@ D-Sub|Arduino
 
 ##How does it work?
 
-[Install the library](http://arduino.cc/en/Guide/Libraries) and load the ArduinoGenesisDemo example from the Arduino IDE File > Examples > ArduinoGenesisDemo
+[Install the library](http://arduino.cc/en/Guide/Libraries) and load the example from the Arduino IDE: *File > Examples > ArduinoGenesis > ArduinoGenesisDemo*
+
 This sample sketch should give you a fair idea of how to use the library.
