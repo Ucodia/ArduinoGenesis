@@ -11,15 +11,15 @@
 #include "GenesisGamepad.h"
 
 // Button pins
-#define UP_UP_PIN 2
-#define DOWN_DOWN_PIN 3
-#define GND_LEFT_PIN 4
-#define GND_RIGHT_PIN 5
-#define A_B_PIN 6
-#define START_C_PIN 7
+const int UP_UP_PIN = 2;
+const int DOWN_DOWN_PIN = 3;
+const int GND_LEFT_PIN = 4;
+const int GND_RIGHT_PIN = 5;
+const int A_B_PIN = 6;
+const int START_C_PIN = 7;
 
 // Select switch pin
-#define SELECT_PIN 8
+const int SELECT_PIN = 8;
 
 void GenesisGamepad::init()
 {
