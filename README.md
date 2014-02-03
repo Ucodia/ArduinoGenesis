@@ -1,6 +1,6 @@
 #ArduinoGenesis
 
-ArduinoGenesis is a simplistic library for catching inputs from a Sega Genesis / Mega Drive from an Arduino board.
+ArduinoGenesis is a simplistic library for catching inputs of a Sega Genesis / Mega Drive gamepad from an Arduino board.
 
 ##Plug it baby!
 
